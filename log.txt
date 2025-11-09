@@ -1,4 +1,6 @@
-7c4d272 (HEAD -> main, origin/main, origin/HEAD) Task 2.2
+367fcae (HEAD -> main, origin/main, origin/HEAD) Task 2.3 finished
+5e7885b Task 2.2 finished and updated log.txt
+7c4d272 Task 2.2
 678d0a8 Task 2.1 finished
 b49a359 Task 1.2 finished
 5a8f128 Task 1.1 finished
